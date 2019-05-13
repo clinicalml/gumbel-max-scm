@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: pymdptoolbox
+Version: 4.0b4.dev0
+Summary: Markov Decision Process (MDP) Toolbox
+Home-page: https://github.com/sawcordwell/pymdptoolbox
+Author: Steven A. W. Cordwell
+Author-email: steven.cordwell@uqconnect.edu.au
+License: New BSD
+Download-URL: https://pypi.python.org/pypi/pymdptoolbox
+Description: The MDP toolbox provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.
+Platform: Any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: LP
