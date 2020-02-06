@@ -19,6 +19,10 @@ conda install tqdm
 pip install pymdptoolbox
 ```
 
+## Updated Simulator
+
+As we receive suggestions for improving the realism of the sepsis simulator, we will collect them in the `sim-v2` branch of this repository, in case it is useful for others.  The `master` branch will remain unchanged to facilitate reproduction of the original paper.
+
 ## Acknowledgements
 
 First, we would like to thank Christina Xi and [Fredrik D. Johansson](http://www.mit.edu/~fredrikj/) for their work on an earlier version of the sepsis simulator we use in this paper.
