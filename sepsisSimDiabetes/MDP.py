@@ -250,7 +250,7 @@ class MDP(object):
                 if glucose_prob < 0.1:
                     self.state.glucose_state = max(0, self.state.glucose_state - 1)
                 elif glucose_prob < 0.2:
-                    self.state.glucose_state = min(1, self.state.glucose_state + 1)
+                    self.state.glucose_state = min(4, self.state.glucose_state + 1)
             else:
                 if glucose_prob < 0.3:
                     self.state.glucose_state = max(0, self.state.glucose_state - 1)
