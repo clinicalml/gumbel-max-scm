@@ -25,7 +25,7 @@ As we receive suggestions for improving the realism of the sepsis simulator, we 
 
 ## Acknowledgements
 
-First, we would like to thank Christina Xi and [Fredrik D. Johansson](http://www.mit.edu/~fredrikj/) for their work on an earlier version of the sepsis simulator we use in this paper.
+First, we would like to thank Christina X Ji and [Fredrik D. Johansson](http://www.mit.edu/~fredrikj/) for their work on an earlier version of the sepsis simulator we use in this paper.
 
 Second, for some of the code used in the posterior inference over Gumbel variables, we borrowed from Chris Maddison's blog post [here](https://cmaddis.github.io/gumbel-machinery)
 
